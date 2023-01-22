@@ -152,6 +152,11 @@ p {
     margin: 0 10px;
 }
 
+.food{
+    font-size: 80px;
+    margin-top: 80px;
+}
+
 .header_wrapper .nav-item .nav-link {
     font-size: 18px;
     font-weight: 500;
